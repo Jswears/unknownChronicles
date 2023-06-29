@@ -4,8 +4,8 @@ class Player {
     this.gameCanvas = document.querySelector("#game-container");
     this.width = 40;
     this.height = 40;
-    this.top = 480;
-    this.left = 180;
+    this.top = 550;
+    this.left = 480;
     this.directionX = 0;
     this.directionY = 0;
     this.element = document.createElement("img");
