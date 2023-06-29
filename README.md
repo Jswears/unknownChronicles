@@ -30,6 +30,7 @@ The game is based on childhood memories playing games like Zelda a Link to the P
 - Add movement to the enemies and bosses
 - Shooting system instead of clicking
 - Add more obstacles in the map
+- Add sounds when hit by enemy
 
 ## TECHNOLOGIES USED
 
