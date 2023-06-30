@@ -137,8 +137,7 @@ const ctx;
 
 #### Slides
 
-COMING SOON
-
+[Link](https://docs.google.com/presentation/d/1ifS3EIrfNG3EsYCi3Etr-tAwJQF2IVcgoV52uCW_Iaw/edit?usp=sharing)
 ### Deploy
 
 [Link](https://jswears.github.io/unknownChronicles/)
